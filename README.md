@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dave-WestNeu
 - 👀 I’m interested in automation, AI, IOT, distributed systems
-- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on hacks/kludges/major operations
 - 📫 How to reach me dave.west@neudesic.com
 - 😄 Pronouns: he/him
